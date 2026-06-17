@@ -48,7 +48,6 @@
 
 **Highlights:**
 - Developed an end-to-end machine learning system for borrower risk prediction
-- Built an interactive **Streamlit-based interface** for local inference
 - Implemented a reusable **preprocessing pipeline** using Scikit-learn
 - Serialized trained artifacts using **Joblib** for reproducibility
 - Focused on creating an interpretable and practical credit risk assessment workflow
