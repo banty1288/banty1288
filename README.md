@@ -42,6 +42,20 @@
 
 ## 📌 Featured Projects
 
+### 🔹 Explainable Credit Risk Assessment
+**Repository:**  
+🔗 https://github.com/banty1288/Explainable-credit-risk-assessment
+
+**Highlights:**
+- Developed an end-to-end machine learning system for borrower risk prediction
+- Built an interactive **Streamlit-based interface** for local inference
+- Implemented a reusable **preprocessing pipeline** using Scikit-learn
+- Serialized trained artifacts using **Joblib** for reproducibility
+- Focused on creating an interpretable and practical credit risk assessment workflow
+- Demonstrates skills in data preprocessing, model development, and ML application building
+
+---
+
 ### 🔹 Credit Risk Scoring Model
 **Repository:**  
 🔗 https://github.com/banty1288/Credit-Risk-Scoring-Model
@@ -64,18 +78,8 @@
 - Uses **NumPy-based stochastic modelling**
 - Incorporates macroeconomic shocks
 - Demonstrates quantitative analysis skills
+```
 
----
-
-### 🔹 SMS Spam Detection
-**Repository:**  
-🔗 https://github.com/banty1288/Spam-Detection
-
-**Highlights:**
-- Text classification using **Scikit-learn**
-- Implemented **Multinomial Naive Bayes**
-- Achieved **98.39% accuracy**
-- Includes preprocessing and evaluation pipeline
 
 ---
 
