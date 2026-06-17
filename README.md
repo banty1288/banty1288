@@ -1,14 +1,12 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6E40C9&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B%2C%20I'm%20Banty%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineering%20Undergraduate%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Full-Stack%20Developer&descSize=15&descAlignY=58" width="100%"/>
 
-<h1>Hi there 👋, I'm Banty Kumar</h1>
-
-<h3>Electrical Engineering Undergraduate • AI/ML Enthusiast • Full-Stack Developer</h3>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Building+fintech+%26+predictive+analytics+projects;Passionate+about+ML%2C+Data+Science+%26+AI;Learning%2C+building%2C+and+growing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -27,11 +25,11 @@
 
 ### Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -42,7 +40,7 @@
 
 ### Machine Learning & Data Science
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -54,7 +52,7 @@
 
 ### Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -62,9 +60,11 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Explainable Credit Risk Assessment
-**Repository:**  
-🔗 https://github.com/banty1288/Explainable-credit-risk-assessment
+<details>
+<summary><b>🔹 Explainable Credit Risk Assessment</b></summary>
+<br>
+
+**Repository:** 🔗 [banty1288/Explainable-credit-risk-assessment](https://github.com/banty1288/Explainable-credit-risk-assessment)
 
 **Highlights:**
 - Developed an end-to-end machine learning system for borrower risk prediction
@@ -73,11 +73,13 @@
 - Focused on creating an interpretable and practical credit risk assessment workflow
 - Demonstrates skills in data preprocessing, model development, and ML application building
 
----
+</details>
 
-### 🔹 Credit Risk Scoring Model
-**Repository:**  
-🔗 https://github.com/banty1288/Credit-Risk-Scoring-Model
+<details>
+<summary><b>🔹 Credit Risk Scoring Model</b></summary>
+<br>
+
+**Repository:** 🔗 [banty1288/Credit-Risk-Scoring-Model](https://github.com/banty1288/Credit-Risk-Scoring-Model)
 
 **Highlights:**
 - End-to-end machine learning workflow
@@ -86,17 +88,21 @@
 - Cross-validated model evaluation
 - Achieved approximately **0.91 ROC-AUC**
 
----
+</details>
 
-### 🔹 Commodity Market Simulation
-**Repository:**  
-🔗 https://github.com/banty1288/Commodity-Market-Simulation
+<details>
+<summary><b>🔹 Commodity Market Simulation</b></summary>
+<br>
+
+**Repository:** 🔗 [banty1288/Commodity-Market-Simulation](https://github.com/banty1288/Commodity-Market-Simulation)
 
 **Highlights:**
 - Simulates **365 days of market activity**
 - Uses **NumPy-based stochastic modelling**
 - Incorporates macroeconomic shocks
 - Demonstrates quantitative analysis skills
+
+</details>
 
 ---
 
@@ -124,15 +130,15 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/banty-kumar-746927372/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://github.com/banty1288" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://x.com/BANTYK1614" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
@@ -143,3 +149,5 @@
 <p align="center">
   <i>"Learning, building, and growing one project at a time."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:0e75b6&height=100&section=footer" width="100%"/>
