@@ -1,10 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Banty Kumar</h1>
+<div align="center">
 
-<h3 align="center">Electrical Engineering Undergraduate • AI/ML Enthusiast • Full-Stack Developer</h3>
+<h1>Hi there 👋, I'm Banty Kumar</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<h3>Electrical Engineering Undergraduate • AI/ML Enthusiast • Full-Stack Developer</h3>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
@@ -22,18 +26,34 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript" />
 </p>
 
-### Machine Learning & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn
+### Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4EACD1?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/imbalanced--learn-6E57F7?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -77,20 +97,18 @@
 - Uses **NumPy-based stochastic modelling**
 - Incorporates macroeconomic shocks
 - Demonstrates quantitative analysis skills
-```
-
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banty1288&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=banty1288&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -125,18 +143,3 @@
 <p align="center">
   <i>"Learning, building, and growing one project at a time."</i>
 </p>
-
-<!--
-**banty1288/banty1288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
