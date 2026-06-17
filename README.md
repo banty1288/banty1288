@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Banty%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=62&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Electrical%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=62&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=550&lines=Hi+there+%F0%9F%91%8B+I'm+Banty+Kumar;Building+fintech+%26+predictive+analytics+projects;Passionate+about+ML%2C+Data+Science+%26+AI;Learning%2C+building%2C+and+growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%20there%20%F0%9F%91%8B%20I%20am%20Banty%20Kumar;Building%20Fintech%20%26%20Predictive%20Analytics%20Projects;Passionate%20about%20ML%2C%20Data%20Science%20%26%20AI;Learning%2C%20Building%2C%20and%20Growing%20%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -14,11 +14,13 @@
 
 <br/>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
 ## 👨‍🎓 About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🎓 Electrical Engineering Undergraduate at **NIT Patna (2025–2029)**
 - 🤖 Passionate about **Machine Learning, Data Science, and Intelligent Systems**
@@ -27,52 +29,59 @@
 - 🌱 Continuously learning and improving my skills in **AI/ML and Software Development**
 - 📍 Based in **Patna, Bihar, India**
 
+<br clear="right"/>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=dark&perline=6" />
-</p>
+### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=dark&perline=6" />
 
 <br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
 
 ### 🤖 Machine Learning & Data Science
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4EACD1?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/imbalanced--learn-6E57F7?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4EACD1?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/imbalanced--learn-6E57F7?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
 ### 🧰 Tools & Platforms
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 📌 Featured Projects
 
@@ -124,11 +133,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="175"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=banty1288&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F7931E&currStreakLabel=58A6FF&sideLabels=58A6FF" height="175"/>
 
@@ -138,13 +149,15 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=banty1288&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F7931E&hide_border=true&area=true&area_color=58A6FF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=banty1288&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F7931E&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 🎯 Current Focus
 
@@ -156,6 +169,8 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 ## 🤝 Connect With Me
 
@@ -176,8 +191,6 @@
 </div>
 
 <br/>
-
----
 
 <div align="center">
   <i>"Learning, building, and growing one project at a time."</i>
