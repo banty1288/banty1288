@@ -1,225 +1,78 @@
-<div align="center">
+# Banty Kumar
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Electrical%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=62&descColor=ffffffcc" width="100%"/>
+**Electrical Engineering Undergraduate · NIT Patna (2025–2029)**  
+AI/ML • FinTech • Frontend Development  
+📍 Patna, Bihar, India
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banty-kumar-746927372/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/banty1288)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/BANTYK1614)
+[![Profile Views](https://komarev.com/ghpvc/?username=banty1288&style=flat-square&color=6366f1)](https://github.com/banty1288)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I+am+Banty+Kumar;Building+Fintech+%26+Predictive+Analytics+Projects;Passionate+about+ML%2C+Data+Science+%26+AI;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I+am+Banty+Kumar;Building+Fintech+%26+Predictive+Analytics+Projects;Passionate+about+ML%2C+Data+Science+%26+AI;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Typing SVG"/>
-</picture>
+---
 
-<br/><br/>
+## About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=2563EB&style=for-the-badge&labelColor=E5E7EB" alt="Profile Views"/>
-</picture>
+I'm a first-year EE student building a focused portfolio in machine learning and FinTech applications. My projects apply ML to real-world financial problems — credit risk, anomaly detection, and market simulation — with an emphasis on clean code, reproducible pipelines, and honest evaluation.
 
-</div>
+Currently executing a structured AI/ML learning roadmap (Classical ML → Deep Learning → FinTech specialisation) while also building frontend projects with HTML, CSS, JavaScript, and Bootstrap. Preparing for internships at FinTech and financial services firms.
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Projects
 
-<br/>
+### [Explainable Credit Risk Assessment](https://github.com/banty1288/Explainable-credit-risk-assessment)
+End-to-end ML system for borrower risk prediction using a reusable Scikit-learn preprocessing pipeline. Serialized with Joblib for reproducibility. Focused on interpretability alongside predictive performance.
 
-## 👨‍🎓 About Me
+### [Credit Risk Scoring Model](https://github.com/banty1288/Credit-Risk-Scoring-Model)
+Random Forest classifier on a synthetic 10,000-row Indian MSME/gig-worker dataset. Handles class imbalance via SMOTE, evaluated with 5-fold stratified cross-validation. **ROC-AUC ≈ 0.91**
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### [Commodity Market Simulation](https://github.com/banty1288/Commodity-Market-Simulation)
+Simulates 365 days of commodity price dynamics using NumPy-based stochastic modelling with macroeconomic shock events. Demonstrates quantitative analysis and financial modelling skills.
 
-- 🎓 Electrical Engineering Undergraduate at **NIT Patna (2025–2029)**
-- 🤖 Passionate about **Machine Learning, Data Science, and Intelligent Systems**
-- 💻 Interested in **Full-Stack Development** and building impactful applications
-- 🚀 Currently building **fintech and predictive analytics projects**
-- 🌱 Continuously learning and improving my skills in **AI/ML and Software Development**
-- 📍 Based in **Patna, Bihar, India**
+---
 
-<br clear="right"/>
+## Tech Stack
 
-<br/>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Frontend Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<br/>
+**ML & Data**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EACD1?style=flat-square&logo=python&logoColor=white)
 
-## 🛠️ Tech Stack
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<div align="center">
+---
 
-### 💻 Programming Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=light&perline=6" alt="Programming Languages"/>
-</picture>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<br/><br/>
-
-### 🤖 Machine Learning & Data Science
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4EACD1?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/imbalanced--learn-6E57F7?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br/><br/>
-
-### 🧰 Tools & Platforms
+## GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Tools"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&hide_border=true&bg_color=ffffff&title_color=4f46e5&icon_color=4f46e5&text_color=374151" height="160" alt="GitHub Stats"/>
 </picture>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📌 Featured Projects
-
-<details>
-<summary><b>🔹 Explainable Credit Risk Assessment</b></summary>
-<br>
-
-**Repository:** 🔗 [banty1288/Explainable-credit-risk-assessment](https://github.com/banty1288/Explainable-credit-risk-assessment)
-
-**Highlights:**
-- Developed an end-to-end machine learning system for borrower risk prediction
-- Implemented a reusable **preprocessing pipeline** using Scikit-learn
-- Serialized trained artifacts using **Joblib** for reproducibility
-- Focused on creating an interpretable and practical credit risk assessment workflow
-- Demonstrates skills in data preprocessing, model development, and ML application building
-
-</details>
-
-<details>
-<summary><b>🔹 Credit Risk Scoring Model</b></summary>
-<br>
-
-**Repository:** 🔗 [banty1288/Credit-Risk-Scoring-Model](https://github.com/banty1288/Credit-Risk-Scoring-Model)
-
-**Highlights:**
-- End-to-end machine learning workflow
-- Advanced feature engineering for risk assessment
-- Handling class imbalance effectively
-- Cross-validated model evaluation
-- Achieved approximately **0.91 ROC-AUC**
-
-</details>
-
-<details>
-<summary><b>🔹 Commodity Market Simulation</b></summary>
-<br>
-
-**Repository:** 🔗 [banty1288/Commodity-Market-Simulation](https://github.com/banty1288/Commodity-Market-Simulation)
-
-**Highlights:**
-- Simulates **365 days of market activity**
-- Uses **NumPy-based stochastic modelling**
-- Incorporates macroeconomic shocks
-- Demonstrates quantitative analysis skills
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=2563EB&text_color=1F2937" height="175" alt="GitHub Stats"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=banty1288&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F7931E&currStreakLabel=58A6FF&sideLabels=58A6FF"/>
-  <img src="https://streak-stats.demolab.com/?user=banty1288&theme=default&hide_border=true&background=FFFFFF&stroke=2563EB&ring=2563EB&fire=F7931E&currStreakLabel=2563EB&sideLabels=1F2937&dates=6B7280" height="175" alt="GitHub Streak"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=1F2937" alt="Top Languages"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=banty1288&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F7931E&hide_border=true&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=banty1288&theme=github&bg_color=FFFFFF&color=2563EB&line=2563EB&point=F7931E&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</picture>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🎯 Current Focus
-
-- 📚 Strengthening my foundations in **Machine Learning**
-- 🏗️ Building projects that solve real-world problems
-- 🌐 Expanding my knowledge of **web technologies**
-- 💼 Preparing for internships and future opportunities in **AI/ML**
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/banty-kumar-746927372/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 &nbsp;
-<a href="https://github.com/banty1288" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/BANTYK1614" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&hide_border=true&bg_color=ffffff&title_color=4f46e5&text_color=374151" height="160" alt="Top Languages"/>
+</picture>
 
-</div>
+---
 
-<br/>
+*B.Tech Electrical Engineering · NIT Patna · CGPA 8.10 · Graduating 2029*
 
-<div align="center">
-  <i>"Learning, building, and growing one project at a time."</i>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
