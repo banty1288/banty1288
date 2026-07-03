@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20%7C%20ML%20%26%20LLM%20Fine-Tuning&descSize=18&descAlignY=62&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20-%20Frontend%2C%20AI%20ML%20and%20Fintech&descSize=18&descAlignY=62&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -40,8 +40,8 @@
 ### 💻 Programming Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=light&perline=6" alt="Programming Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,c,js&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=light&perline=6" alt="Programming Languages"/>
 </picture>
 
 <br/>
@@ -49,13 +49,18 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br/><br/>
 
-### 🤖 Machine Learning & Data Science
+### 🤖 Machine Learning, Deep Learning & LLMs
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PEFT%2FLoRA-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/QLoRA-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -67,6 +72,23 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/imbalanced--learn-6E57F7?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/><br/>
+
+### 💰 Fintech & Quantitative Analysis
+
+<img src="https://img.shields.io/badge/Credit%20Risk%20Modeling-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quantitative%20Simulation-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Market%20Analysis-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
+
+<br/><br/>
+
+### 🎨 Frontend (Basics)
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br/><br/>
 
@@ -211,5 +233,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
 
 
