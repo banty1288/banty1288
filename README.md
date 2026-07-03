@@ -162,8 +162,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF&text_color=1F2937" height="175" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=default&hide_border=true" height="175" alt="GitHub Stats"/>
 </picture>
 &nbsp;&nbsp;
 <picture>
@@ -174,8 +174,8 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=58A6FF&text_color=1F2937" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </picture>
 
 <br/><br/>
@@ -233,6 +233,7 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
 
 
 
