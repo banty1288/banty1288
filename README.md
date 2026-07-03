@@ -162,20 +162,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=banty1288&show_icons=true&theme=default&hide_border=true" height="175" alt="GitHub Stats"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=banty1288&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F7931E&currStreakLabel=58A6FF&sideLabels=58A6FF"/>
   <img src="https://streak-stats.demolab.com/?user=banty1288&theme=default&hide_border=true&background=FFFFFF&stroke=58A6FF&ring=58A6FF&fire=F7931E&currStreakLabel=58A6FF&sideLabels=1F2937&dates=6B7280" height="175" alt="GitHub Streak"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banty1288&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </picture>
 
 <br/><br/>
@@ -233,7 +221,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
-
-
-
-
