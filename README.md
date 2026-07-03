@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20%E2%80%A2%20ML%2FDL%2C%20LLM%20Fine-Tuning%20%26%20Applied%20Data%20Science&descSize=17&descAlignY=62&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20%7C%20ML%20%26%20LLM%20Fine-Tuning&descSize=18&descAlignY=62&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -211,4 +211,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
 
