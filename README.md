@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Frontend%20Developer&descSize=17&descAlignY=62&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20%E2%80%A2%20ML%2FDL%2C%20LLM%20Fine-Tuning%20%26%20Applied%20Data%20Science&descSize=17&descAlignY=62&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -20,10 +20,11 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Electrical Engineering Undergraduate at **NIT Patna (2025–2029)**
-- 🤖 Passionate about **Machine Learning, Data Science, and Intelligent Systems**
-- 💻 Interested in **Frontend Development** and building impactful applications
-- 🚀 Currently building **fintech and predictive analytics projects**
-- 🌱 Continuously learning and improving my skills in **AI/ML and Software Development**
+- 🧠 **ML/DL:** Fine-tuned **Qwen2.5-3B** (QLoRA/PEFT/LoRA, 4-bit quantization) and **DistilBERT** (Hugging Face Trainer API) for real, end-to-end pipelines
+- 📈 **Applied Data Science:** Built credit risk models (Scikit-learn, feature engineering, class imbalance handling) and quantitative simulations (NumPy/Pandas)
+- 💻 **Programming:** Python, Java, C — with basic HTML/CSS/Bootstrap for simple frontends
+- ⚡ **Core Engineering:** Grounded in circuit analysis and power systems from my EE coursework
+- 🌱 Learning in public — every repo here is a working pipeline, not a tutorial clone
 - 📍 Based in **Patna, Bihar, India**
 
 <br/>
@@ -210,3 +211,4 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
