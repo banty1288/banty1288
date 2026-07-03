@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=Electrical%20Engineer%20-%20Frontend%2C%20AI%20ML%20and%20Fintech&descSize=18&descAlignY=62&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Banty%20Kumar&fontSize=75&fontColor=fff&fontAlignY=42&desc=AI%20ML%20-%20Web%20-%20Electrical%20Engineering&descSize=18&descAlignY=62&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -20,10 +20,9 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Electrical Engineering Undergraduate at **NIT Patna (2025–2029)**
-- 🧠 **ML/DL:** Fine-tuned **Qwen2.5-3B** (QLoRA/PEFT/LoRA, 4-bit quantization) and **DistilBERT** (Hugging Face Trainer API) for real, end-to-end pipelines
-- 📈 **Applied Data Science:** Built credit risk models (Scikit-learn, feature engineering, class imbalance handling) and quantitative simulations (NumPy/Pandas)
-- 💻 **Programming:** Python, Java, C — with basic HTML/CSS/Bootstrap for simple frontends
-- ⚡ **Core Engineering:** Grounded in circuit analysis and power systems from my EE coursework
+- 🧠 **AI/ML:** Fine-tuned **Qwen2.5-3B** (QLoRA/PEFT/LoRA, 4-bit quantization) and **DistilBERT** (Hugging Face Trainer API); built interpretable credit risk models with Scikit-learn
+- 🌐 **Web:** Deployed a static site on **AWS S3**; build simple front-ends with **HTML, CSS, and Bootstrap**
+- ⚡ **Electrical Engineering:** Core coursework in **circuit analysis and power systems** — the foundation everything else builds on
 - 🌱 Learning in public — every repo here is a working pipeline, not a tutorial clone
 - 📍 Based in **Patna, Bihar, India**
 
@@ -52,7 +51,7 @@
 
 <br/><br/>
 
-### 🤖 Machine Learning, Deep Learning & LLMs
+### 🧠 AI / ML
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -75,20 +74,28 @@
 
 <br/><br/>
 
-### 💰 Fintech & Quantitative Analysis
-
-<img src="https://img.shields.io/badge/Credit%20Risk%20Modeling-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
-<img src="https://img.shields.io/badge/Quantitative%20Simulation-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
-<img src="https://img.shields.io/badge/Market%20Analysis-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
-
-<br/><br/>
-
-### 🎨 Frontend (Basics)
+### 🌐 Web
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+<br/><br/>
+
+### ⚡ Electrical Engineering
+
+<img src="https://img.shields.io/badge/Circuit%20Analysis-2C3E50?style=for-the-badge&logo=cachet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Systems-2C3E50?style=for-the-badge&logo=cachet&logoColor=white"/>
+
+<br/><br/>
+
+### 💰 Applied to Fintech & Quantitative Analysis
+
+<img src="https://img.shields.io/badge/Credit%20Risk%20Modeling-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Quantitative%20Simulation-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
+<img src="https://img.shields.io/badge/Market%20Analysis-1E3A5F?style=for-the-badge&logo=googlefinance&logoColor=white"/>
 
 <br/><br/>
 
