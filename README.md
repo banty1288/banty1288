@@ -87,6 +87,33 @@
 ## 📌 Featured Projects
 
 <details>
+<summary><b>🔹 CodeForge AI — LLM Fine-Tuning (QLoRA)</b></summary>
+<br>
+
+**Repository:** 🔗 [banty1288/CodeForge-AI](https://github.com/banty1288/CodeForge-AI)
+
+**Highlights:**
+- Fine-tuned **Qwen2.5-3B-Instruct** (3.1B parameters) for Python software engineering tasks using **QLoRA (4-bit NF4 quantization) + PEFT/LoRA**
+- Only **0.96% of parameters trainable** (~29.9M of 3.1B) — full parameter-efficient fine-tuning pipeline on a single consumer-grade GPU (Tesla T4)
+- Built end-to-end with Hugging Face Transformers + TRL's `SFTTrainer`, and published the resulting LoRA adapter to the Hugging Face Hub
+- Includes a qualitative evaluation notebook comparing base vs. fine-tuned model outputs on code correctness and explanation quality
+
+</details>
+
+<details>
+<summary><b>🔹 SimpleFineTune — Sentiment Analysis with DistilBERT</b></summary>
+<br>
+
+**Repository:** 🔗 [banty1288/SimpleFineTune](https://github.com/banty1288/SimpleFineTune)
+
+**Highlights:**
+- Fine-tuned **DistilBERT** for binary sentiment classification using the Hugging Face **Trainer API**
+- Complete pipeline: custom CSV dataset → tokenization → training → evaluation → saved model → interactive CLI inference
+- Clean, well-documented project demonstrating transfer learning fundamentals on a pretrained Transformer
+
+</details>
+
+<details>
 <summary><b>🔹 Explainable Credit Risk Assessment</b></summary>
 <br>
 
@@ -98,35 +125,6 @@
 - Serialized trained artifacts using **Joblib** for reproducibility
 - Focused on creating an interpretable and practical credit risk assessment workflow
 - Demonstrates skills in data preprocessing, model development, and ML application building
-
-</details>
-
-<details>
-<summary><b>🔹 Credit Risk Scoring Model</b></summary>
-<br>
-
-**Repository:** 🔗 [banty1288/Credit-Risk-Scoring-Model](https://github.com/banty1288/Credit-Risk-Scoring-Model)
-
-**Highlights:**
-- End-to-end machine learning workflow
-- Advanced feature engineering for risk assessment
-- Handling class imbalance effectively
-- Cross-validated model evaluation
-- Achieved approximately **0.91 ROC-AUC**
-
-</details>
-
-<details>
-<summary><b>🔹 Commodity Market Simulation</b></summary>
-<br>
-
-**Repository:** 🔗 [banty1288/Commodity-Market-Simulation](https://github.com/banty1288/Commodity-Market-Simulation)
-
-**Highlights:**
-- Simulates **365 days of market activity**
-- Uses **NumPy-based stochastic modelling**
-- Incorporates macroeconomic shocks
-- Demonstrates quantitative analysis skills
 
 </details>
 
