@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/banty-kumar-746927372/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/BANTYK1614" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/banty1288/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
@@ -179,21 +179,19 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/banty1288/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/banty1288?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats"/>
 
 <br/>
 
 📁 Synced solutions repo: 🔗 `banty1288/leetcode-solutions` <!-- update once LeetHub sync is set up -->
 
 </div>
-
-> ⚠️ Replace `YOUR_LEETCODE_USERNAME` above with your actual LeetCode handle for the stats card and badges to render correctly. See the LeetHub v2 setup instructions below to auto-sync solutions to GitHub.
 
 <br/>
 
@@ -344,4 +342,5 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
 
