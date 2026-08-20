@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=banty1288&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=E5E7EB" alt="Profile Views"/>
 </picture>
 
+<br/>
+
+<img src="profile_circle.png" width="150"/>
+
 </div>
 
 <br/>
@@ -19,12 +23,32 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Electrical Engineering Undergraduate at **NIT Patna (2025–2029)**
-- 🧠 **AI/ML:** Fine-tuned **Qwen2.5-3B** (QLoRA/PEFT/LoRA, 4-bit quantization) and **DistilBERT** (Hugging Face Trainer API); built interpretable credit risk models with Scikit-learn
-- 🌐 **Web:** Deployed a static site on **AWS S3**; build simple front-ends with **HTML, CSS, and Bootstrap**
-- ⚡ **Electrical Engineering:** Core coursework in **circuit analysis and power systems** — the foundation everything else builds on
-- 🌱 Learning in public — every repo here is a working pipeline, not a tutorial clone
-- 📍 Based in **Patna, Bihar, India**
+```
+
+                                banty1288
+      ┌─────────────────────┐   ─────────────────────────────────────────────
+      │  ┌───────────────┐  │   OS ...................... Electrical Engineering Undergraduate
+      │  │               │  │   Host .................... NIT Patna
+      │  │      AI       │  │   Batch ................... 2025 - 2029
+      │  │               │  │   Location ................ Patna, Bihar, India
+      │  └───────────────┘  │   Tools ................... Git, GitHub, VS Code
+      │                     │   
+      │   EE <-> ML <-> WEB │   Languages.Programming ... Python, Java, C, JavaScript
+      │                     │   Languages.Web ........... HTML, CSS, Bootstrap, AWS S3
+      └─────────────────────┘   
+   ══╦══╦══╦══╦══╦══╦══╦══╦══   AI/ML ................... PyTorch, Hugging Face, Transformers,
+     ║  ║  ║  ║  ║  ║  ║  ║                               PEFT/LoRA, QLoRA,
+                                                          NumPy, Pandas, Matplotlib, Seaborn,
+                                                          Scikit-Learn, Joblib, imbalanced-learn
+                                Electrical Eng .......... Circuit Analysis, Power Systems
+                                
+                                Philosophy .............. "Build. Learn. Outgrow. Repeat."
+                                
+                                Contact ─────────────────────────────────────
+                                LinkedIn ................ linkedin.com/in/banty-kumar-746927372
+                                GitHub .................. github.com/banty1288
+                                X (Twitter) ............. x.com/BANTYK1614
+```
 
 <br/>
 
@@ -228,6 +252,7 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+
 
 
 
